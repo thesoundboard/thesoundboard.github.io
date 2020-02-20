@@ -1,0 +1,21 @@
+body {
+    background-image: url("./images/MandM_anxious_guy.PNG");
+    text-align: center;
+}
+
+body h1 {
+    font-family: 'Lucida Sans Unicode';
+    font-size: 50px;
+    color: black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;    
+}
+
+#bodyDiv {
+    background-color: lightpink;
+    opacity: 0.9;
+    display: inline-block;
+    background-image: url("./images/Mauron.png");
+    background-size: cover;
+}
